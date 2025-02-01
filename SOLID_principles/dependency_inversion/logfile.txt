@@ -1,0 +1,14 @@
+Log: This is a File log message
+Log: This is a File log message
+Log: This is another File log message
+Log: This is a File log message
+Log: This is another File log message
+Log: This is a File log message
+Log: This is another File log message
+Log: This is a File log message
+Log: This is another File log message
+Log: This is a File log message
+Log: This is another File log message
+Log: This is a File log message
+Log (28/01/2025 23:50:43): This is a File log message
+Log (28/01/2025 23:50:52): This is a File log message
